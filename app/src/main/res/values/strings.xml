@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ImageSlider</string>
+
+
+    <string name="slide_1_title">Life hacks</string>
+    <string name="slide_1_description">life hacks for bachelors</string>
+
+
+    <string name="slide_2_title">Life hacks</string>
+    <string name="slide_2_description">life 2 hacks</string>
+
+
+    <string name="slide_3_title">Life hacks</string>
+    <string name="slide_3_description">life 2 hacks</string>
+
+
+    <string name="slide_4_title">Life hacks</string>
+    <string name="slide_4_description">life 2 hacks</string>
+
+
+    <string name="my_preferences">"com.kamath.com.myPref"</string>
+    <string name="my_preference_key">"com.kamath.com.myPrefKey"</string>
+
+
+</resources>
